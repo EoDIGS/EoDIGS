@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎃Olá, meu nome é DIogo! sou estudante de Front End e estou cursando o 2 semestre em Análise e Desenvolvimento de Sistemas.<br>👔Estou a procura de um estágio para ingressar na aréa da programação. <br>⚫Curioso, esforçado e disposto a enfrentar desafios!
+🎃Olá, meu nome é DIogo! sou estudante de Front End e estou cursando o 2 semestre em Análise e Desenvolvimento de Sistemas.<br>👔Estou a procura de um estágio para ingressar na área da programação. <br>⚫Curioso, esforçado e disposto a enfrentar desafios!
 
 
 ## 🌐 Socials:
